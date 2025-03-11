@@ -1,4 +1,4 @@
-# MeesageOps
+# MessageOps
 A modern, user-friendly web application for managing and sending SMS messages to multiple recipients. Built with React, TypeScript, and Tailwind CSS.
 
 ![SMS Messaging Tool Screenshot](https://images.unsplash.com/photo-1611746869696-d09bce200020?auto=format&fit=crop&q=80&w=2000)
