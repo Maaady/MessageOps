@@ -1,8 +1,8 @@
 # MessageOps
-[![Next.js](https://img.shields.io/badge/Next.js-5.5.3-green.svg)](https://www.next.jslang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-5.5.3-yellow.svg)](https://www.node.jslang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-18.0-green.svg)](https://www.next.jslang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-5.5.3-blue.svg)](https://www.reactlang.org/)
+[![React](https://img.shields.io/badge/React-4.6-blue.svg)](https://www.reactlang.org/)
 - A modern, user-friendly web application for managing and sending SMS messages to multiple recipients. Built with React, TypeScript, and Tailwind CSS.
 
 ![SMS Messaging Tool Screenshot](https://images.unsplash.com/photo-1611746869696-d09bce200020?auto=format&fit=crop&q=80&w=2000)
