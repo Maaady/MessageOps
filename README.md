@@ -3,6 +3,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-3.8+-yellow.svg)](https://www.node.jslang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-brown.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-4.6-blue.svg)](https://www.reactlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-12.1-voilet.svg)](https://www.html5lang.org/)
+[![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
+
 - A modern, user-friendly web application for managing and sending SMS messages to multiple recipients. Built with React, TypeScript, and Tailwind CSS.
 
 ![SMS Messaging Tool Screenshot](https://images.unsplash.com/photo-1611746869696-d09bce200020?auto=format&fit=crop&q=80&w=2000)
