@@ -6,7 +6,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-12.1-voilet.svg)](https://www.html5lang.org/)
 [![TalwindCSS](https://img.shields.io/badge/TalwindCSS-8.2-pink.svg)](https://www.talwindcsslang.org/)
 
-- A modern, user-friendly web application for managing and sending SMS messages to multiple recipients. Built with React, TypeScript, and Tailwind CSS.
+- . Built with React, TypeScript, and Tailwind CSS.It encompasses various messaging patterns and technologies used for tasks like remote procedure calls, real-time data streaming, and event-driven architectures.
 
 ![SMS Messaging Tool Screenshot](https://images.unsplash.com/photo-1611746869696-d09bce200020?auto=format&fit=crop&q=80&w=2000)
 
